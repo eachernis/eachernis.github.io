@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer in the [Department of Economics](https://www.strath.ac.uk/business/economics/) at the University of Strathclyde. 
-My research focuses on developing novel econometric methods for the efficient use of big data in macroeconomics. In particular, I combine modeling techniques from the machine learning and Bayesian learning literature with multivariate time series models that macroeconomists commonly work with (e.g., vector autoregressions). My work has been published in the *Journal of Business & Economic Statistics*, the *Journal of Applied Econometrics*, the *Journal of International Money & Finance* and the *Scandinavian Journal of Economics*, among others.
+I am a Principal Economist at the [Bank of Canada](https://www.bankofcanada.ca/profile/tony-chernis/) and a PhD Student (expected graduation 2024/25)at the University of Strathclyde. 
+My dissertation focuses on developing novel techniques to use multiple models for macro-economic forecasting and decisionmaking. My recent work shows how to make [monetary policy decisions using multiple models](https://arxiv.org/abs/2406.03321) and how to combine forecasts using [Bayesian Machine Learning methods](https://arxiv.org/abs/2311.12671). My work has been published in the *International Journal of Forecasting*, the *Journal of Applied Econometrics*, and the *Studies in Nonlinear Dynamics & Econometrics*, among others.
+
+My policy work focuses on topics of interest to the conduct of monetary policy, forecasting, model combination, and survey development. Notably, I developed nowcasting models for the Bank of Canada ([here](https://www.bankofcanada.ca/2022/05/staff-discussion-paper-2022-12/), [here](https://www.bankofcanada.ca/2018/08/staff-discussion-paper-2018-9/) and [here](https://www.bankofcanada.ca/2017/06/staff-discussion-paper-2017-8/)) and created a new [Business Survey](https://www.bankofcanada.ca/2022/06/staff-discussion-paper-2022-14/). 
   
-I am principal investigator of the project [*“Non-parametric volatility modeling in macroeconomics and finance”*](https://nhauzenb.github.io/portfolio/oenb-1-npvola/) (ID. 18763). The main objective of this project – funded by the Anniversary Fund of the Austrian Central Bank (OeNB) – is to develop techniques that can flexibly handle heteroskedasticity in macroeconomic and financial time series.
-
-I have actively participated in knowledge exchange, providing scientific consultancy services to the Joint Research Centre (JRC) Ispra of the European Commission, the Austrian Central Bank (OeNB), and the International Institute for Applied Systems Analysis (IIASA). My typical scope of activities in this context is to tailor econometric methods to the needs of policy institutions and central banks.
-
-
-
-
-[CV](https://www.dropbox.com/scl/fi/uyjt4zgux30w6gxwd650s/NH_CV_Oct2024.pdf?rlkey=pzmbpsys8jn31joje6ys1n5b5&st=rkpjvwpi&dl=0)
 ======
