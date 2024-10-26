@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niko P. Hauzenberger"
+title                    : "Tony Chernis"
 title_separator          : "-"
-name                     : &name "Niko P. Hauzenberger"
+name                     : &name "Tony Chernis"
 description              : &description "personal description"
-url                      : https://nhauzenb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eachernis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nhauzenb/nhauzenb.github.io"
+repository               : "website/eachernis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Senior Lecturer"
-  bio              : "Department of Economics, Strathclyde Business School, University of Strathclyde"
-  avatar           : "Niko_Hauzenberger_webpage.jpg"
-  email            : "niko.hauzenberger@strath.ac.uk"
-  googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
-  orcid            : "https://orcid.org/0000-0002-2683-8421"
-  linkedin         : 
+  name             : "Principal Economist"
+  bio              : "Bank of Canada"
+  avatar           : "bio-photo.jpg"
+  email            : "eachernis@gmail.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=p15qbN0AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0001-9860-9241"
+  linkedin         : "www.linkedin.com/in/tony-chernis-1175b770"
   twitter          : 
-  github           : "nhauzenb"
+  github           : 
   location         : 
-  employer         : 
+  employer         : "https://www.bankofcanada.ca/profile/tony-chernis/"
   
 
 # Reading Files
@@ -170,6 +170,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+policy:
     output: true
     permalink: /:collection/:path/
 
@@ -256,6 +259,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+# _policy
+  - scope:
+      path: ""
+      type: policy
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true  
 
 # Sass/SCSS
 sass:
