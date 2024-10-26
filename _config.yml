@@ -172,7 +172,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-policy:
+  policy:
     output: true
     permalink: /:collection/:path/
 
