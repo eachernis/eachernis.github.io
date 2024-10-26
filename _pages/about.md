@@ -13,4 +13,3 @@ My dissertation focuses on developing novel techniques to use multiple models fo
 
 My policy work focuses on topics of interest to the conduct of monetary policy, forecasting, model combination, and survey development. Notably, I developed nowcasting models for the Bank of Canada ([here](https://www.bankofcanada.ca/2022/05/staff-discussion-paper-2022-12/), [here](https://www.bankofcanada.ca/2018/08/staff-discussion-paper-2018-9/) and [here](https://www.bankofcanada.ca/2017/06/staff-discussion-paper-2017-8/)) and created a new [Business Survey](https://www.bankofcanada.ca/2022/06/staff-discussion-paper-2022-14/). 
   
-======
