@@ -4,7 +4,6 @@ main:
     url: /wps/
   - title: "Publications"
     url: /publications/
-  - title: "Research grants"
-    url: /grants/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Policy"
+    url: /policy/
+
