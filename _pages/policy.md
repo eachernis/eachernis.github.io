@@ -11,7 +11,7 @@ author_profile: true
 Policy papers
 ======
 
-{% for post in site.wps reversed %}
+{% for post in site.policy reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
