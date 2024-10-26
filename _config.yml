@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Principal Economist"
-  bio              : "Bank of Canada"
+  bio              : "Bank of Canada and University of Strathclyde"
   avatar           : "bio-photo-2.jpg"
   email            : "eachernis@gmail.com"
   googlescholar    : "https://scholar.google.ca/citations?user=p15qbN0AAAAJ&hl=en"
@@ -89,7 +89,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/tony-chernis-1175b770"
   twitter          : 
   github           : 
-  location         : "Vancouver"
+  location         : 
   employer         : "https://www.bankofcanada.ca/profile/tony-chernis/"
   
 
