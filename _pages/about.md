@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Director for Macroeconomics at the Bermuda Monetary Authority. I work primarily on Financial Stability and Macroeconomic issues for Bermuda. 
+I am an Assistant Director for Macroeconomics at the Bermuda Monetary Authority in the Financial Stability and Research Department. 
  
 My research focuses on developing novel techniques for using multiple models in macro-economic forecasting and decisionmaking. My recent work shows how to make [monetary policy decisions using multiple models](https://arxiv.org/abs/2406.03321) and how to combine forecasts using [Bayesian machine learning methods](https://arxiv.org/abs/2311.12671). An sub-theme in my work is using [machine learning techniques in econometric models](https://arxiv.org/abs/2509.04928). My work has been published in the *International Economic Review*, the *International Journal of Forecasting*, the *Journal of Applied Econometrics*, and *Studies in Nonlinear Dynamics & Econometrics*, among others.
 
